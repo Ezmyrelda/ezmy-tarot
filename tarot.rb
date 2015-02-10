@@ -1,5 +1,4 @@
 #!/usr/bin/ruby
-
 deck = { 
       :c0 => 'zed',
       :c1 => 'one',
