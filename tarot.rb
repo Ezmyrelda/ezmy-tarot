@@ -1,4 +1,8 @@
 #!/usr/bin/ruby
+print "You would like your fortune? Please tell me your name; or should I read that as well?"
+name = gets.chomp
+print "How many cards would you like?"
+reading = gets.chomp
 
 deck = { 
       :c0 => 'zed',
