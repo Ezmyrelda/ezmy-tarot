@@ -1,17 +1,10 @@
 #!/usr/bin/ruby
-<<<<<<< HEAD
-<<<<<<< HEAD
 
 print "You would like your fortune? Please tell me your name; or should I read that as well?"
 name = gets.chomp
 print "How many cards would you like?"
 reading = gets.chomp
 
-=======
->>>>>>> 6d7c02c57738a9d0042d9e7eb8361a60df36fe62
-=======
-
->>>>>>> 36491c5fab3f9d5f593a289e529b111aa59694bf
 deck = { 
       :c0 => 'zed',
       :c1 => 'one',
