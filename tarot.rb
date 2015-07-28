@@ -3,7 +3,7 @@ print "You would like your fortune? Please tell me your name; or should I read t
 name = gets.chomp
 print "How many cards would you like? "
 reading = gets.chomp
-deck = { 
+deck = [ 
   0 => 'zed',
   1 => 'one',
   2 => 'two',
@@ -82,4 +82,4 @@ deck = {
   75 => '♠knight',
   76 => '♠king',
   77 => '♠queen' 
-}
+]
