@@ -11,4 +11,5 @@ a reading from a pack of 78 cards to the terminal.
 I specifically want it to be a mainly terminal based app in order to have it spit out readings for an ebooks bot.. 
 More on that later..
 
-Right now.. It's just a ruby hash.. Should it be an array? We don't know.. We can't actually "code" yet..
+Changelog:
+Made it an Array.. It needs to stay an array.. There's no reason for it to be a hash.. Learn from Marie.
